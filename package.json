@@ -1,0 +1,23 @@
+{
+  "name": "twitter-bot-maiarafa10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maiarafa10/twitter-bot"
+  },
+  "keywords": [],
+  "author": "Rafael de Oliveira Maia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maiarafa10/twitter-bot/issues"
+  },
+  "dependencies": {
+    "node-fetch": "^2.2.1",
+    "twitter": "^1.7.1"
+  }
+}
